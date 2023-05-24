@@ -15,7 +15,7 @@ public class Example {
      */
     public static void main(String[] args) {
         System.out.println("github changes made!!!");
-        // PULL OPERATION PRACTICE
+        // Fetch Merge PRACTICE
     }
     
 }
